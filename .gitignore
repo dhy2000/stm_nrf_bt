@@ -1,3 +1,9 @@
+# My Ignores
+
+Debug/**
+Binaries/**
+
+
 # Prerequisites
 *.d
 
